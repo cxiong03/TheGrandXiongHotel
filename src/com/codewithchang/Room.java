@@ -13,6 +13,7 @@ public class Room {
         this.roomNumber = roomNumber;
         this.floor = floor;
         this.roomType = roomType;
+        this.price = price;
     }
 
     public boolean reserved() {
