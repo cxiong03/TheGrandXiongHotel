@@ -16,7 +16,4 @@ public class Room {
         this.price = price;
     }
 
-    public boolean reserved() {
-
-    }
 }
